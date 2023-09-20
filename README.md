@@ -12,3 +12,5 @@ This repository contains a Python implementation of an efficient node placement 
 ## Requirements
 
 - Python 
+
+You can read the article PDF in 3D_Q_Coverage_Q_Connectivity.pdf
